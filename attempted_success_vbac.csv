@@ -1,0 +1,176 @@
+"","site_name","success_rate","vbac_rate","attempt_rate"
+"1","Airedale Maternity Unit",0.698,0.259,0.371
+"2","Barnet Hospital",0.552,0.231,0.417
+"3","Barnsley District General Hospital",0.73,0.408,0.558
+"4","Basildon Hospital",0.523,0.237,0.443
+"5","Basingstoke and North Hampshire Hospital",0.496,0.242,0.472
+"6","Bedford Hospital Cygnet Wing",0.627,0.251,0.401
+"7","Birmingham Womens Hospital",0.665,0.247,0.4
+"8","Blackpool Maternity Unit",0.525,0.18,0.333
+"9","Bradford Women's and Newborn Unit",0.606,0.392,0.647
+"10","Calderdale Royal Hospital",0.732,0.333,0.456
+"11","Centre for Women's Health, RD & E Wonford",0.694,0.238,0.34
+"12","Chelsea and Westminster Hospital",0.57,0.133,0.233
+"13","City Hospital Maternity Unit",0.683,0.311,0.487
+"14","Colchester Hospital",0.359,0.156,0.435
+"15","Conquest Obstetric-led Maternity Unit",0.612,0.234,0.375
+"16","Countess of Chester Hospital",0.627,0.195,0.311
+"17","Croydon Health Services Maternity Unit",0.703,0.279,0.381
+"18","Cumberland Infirmary",0.614,0.219,0.356
+"19","Darent Valley Hospital",0.621,0.231,0.362
+"20","Darlington Memorial Hospital",0.761,0.239,0.297
+"21","Diamond Jubilee Maternity Unit, Lister Hospital",0.724,0.284,0.392
+"22","Diana, Princess of Wales Hospital",0.721,0.308,0.428
+"23","Dorset County Hospital Maternity Unit",0.65,0.422,0.652
+"24","Duchess of Kent Maternity Unit",0.524,0.27,0.494
+"25","East Surrey Hospital",0.541,0.364,0.499
+"26","Elizabeth Garrett Anderson Wing, UCLH",0.601,0.177,0.294
+"27","Epsom Hospital",0.614,0.249,0.405
+"28","Frimley Park Hospital",0.649,0.222,0.343
+"29","Gateshead Hospitals Queen Elizabeth Maternity Unit",0.538,0.153,0.268
+"30","George Eliot Maternity Unit",0.702,0.325,0.463
+"31","Good Hope Hospital",0.727,0.176,0.242
+"32","Great Western Hospital",0.674,0.213,0.312
+"33","Harrogate District Hospital Maternity Unit",0.634,0.242,0.382
+"34","Hereford County Hospital",0.73,0.196,0.268
+"35","Homerton Maternity Unit",0.449,0.184,0.405
+"36","Ipswich Hospital",0.688,0.256,0.372
+"37","James Cook University Hospital",0.745,0.384,0.515
+"38","Jessop Wing",0.603,0.26,0.424
+"39","John Radcliffe Hospital",0.562,0.212,0.37
+"40","King's College Hospital",0.565,0.285,0.499
+"41","Kingston Maternity Unit",0.61,0.233,0.382
+"42","Lancashire Women and Newborn Centre",0.647,0.286,0.444
+"43","Leeds General Infirmary",0.829,0.264,0.276
+"44","Leicester General Hospital",0.447,0.209,0.464
+"45","Leicester Royal Infirmary",0.504,0.166,0.331
+"46","Leighton Hospital",0.673,0.212,0.307
+"47","Lincoln County Hospital",0.554,0.159,0.288
+"48","Liverpool Women's Hospital",0.618,0.181,0.293
+"49","Luton and Dunstable University Hospital",0.442,0.171,0.386
+"50","Macclesfield Birth Centre",0.683,0.312,0.457
+"51","Maternity Unit St Mary's Hospital",0.455,0.217,0.478
+"52","Medway Maritime Hospital",0.641,0.289,0.451
+"53","Musgrove Park Hospital",0.598,0.214,0.345
+"54","New Cross Hospital",0.586,0.264,0.45
+"55","Newham General Hospital",0.554,0.325,0.575
+"56","Norfolk and Norwich University Hospital",0.53,0.165,0.315
+"57","North Devon Hospital",0.683,0.248,0.363
+"58","North Manchester General Hospital",0.46,0.223,0.477
+"59","North Middlesex Maternity Unit",0.5,0.202,0.405
+"60","Northampton Maternity Unit",0.667,0.172,0.254
+"61","Northumbria Specialist Emergency Care Hospital",0.426,0.114,0.268
+"62","Northwick Park Hospital",0.58,0.274,0.473
+"63","Nottingham City Hospital",0.653,0.26,0.391
+"64","Ormskirk Maternity Unit",0.676,0.202,0.3
+"65","Peterborough City Hospital",0.66,0.291,0.441
+"66","Pilgrim Hospital, Boston",0.741,0.249,0.328
+"67","Pinderfields Hospital",0.713,0.332,0.459
+"68","Plymouth Hospital",0.699,0.31,0.444
+"69","Preston Birth Centre, Royal Preston Hospital",0.485,0.185,0.382
+"70","Princess Alexandra Maternity Unit",0.545,0.288,0.513
+"71","Princess Anne Hospital",0.589,0.339,0.575
+"72","Princess Anne Maternity Unit",0.64,0.341,0.534
+"73","Princess Anne Wing, Royal United Hospital",0.213,0.141,0.638
+"74","Princess of Wales Women's Unit, Heartlands Hospital",0.707,0.197,0.279
+"75","Princess Royal Hospital",0.768,0.241,0.286
+"76","Princess Royal University Hospital",0.765,0.501,0.625
+"77","Queen Alexandra Hospital",0.588,0.214,0.351
+"78","Queen Charlotte's and Chelsea Hospital",0.677,0.26,0.381
+"79","Queen Elizabeth Hospital",0.732,0.285,0.408
+"80","Queen Elizabeth the Queen Mother Hospital",0.643,0.258,0.402
+"81","Queen's Hospital",0.565,0.269,0.471
+"82","Queen's Hospital Burton",0.53,0.288,0.53
+"83","Queen's Medical Centre",0.606,0.225,0.351
+"84","Rockingham Wing, Kettering General Hospital",0.279,0.097,0.347
+"85","Rosie Maternity Hospital",0.706,0.273,0.386
+"86","Royal Albert Edward Infirmary",0.661,0.211,0.297
+"87","Royal Berkshire Hospital Maternity Unit",0.552,0.255,0.463
+"88","Royal Cornwall Hospital",0.699,0.312,0.448
+"89","Royal Derby Hospital",0.636,0.229,0.342
+"90","Royal Hampshire County Hospital",0.523,0.224,0.383
+"91","Royal Lancaster Infirmary",0.711,0.229,0.322
+"92","Royal Stoke Hospital",0.718,0.249,0.32
+"93","Royal Sussex County Hospital",0.885,0.308,0.308
+"94","Royal Victoria Infirmary",0.492,0.135,0.261
+"95","Russells Hall Maternity Unit",0.655,0.199,0.305
+"96","Saint Mary's Hospital",0.675,0.223,0.312
+"97","Salisbury Maternity Unit",0.764,0.374,0.484
+"98","Scarborough Hospital",0.704,0.301,0.375
+"99","Scunthorpe General Hospital",0.538,0.311,0.578
+"100","Sherwood Birthing Unit",0.984,0.31,0.306
+"101","South Lakes Birth Centre, Furness General Hospital",0.64,0.186,0.291
+"102","South Tyneside District Hospital",0.647,0.324,0.5
+"103","South Warwickshire Maternity Unit",0.634,0.243,0.373
+"104","Southend University Hospital",0.633,0.2,0.311
+"105","Southmead Hospital Maternity Unit",0.634,0.224,0.353
+"106","St George's Hospital",0.654,0.246,0.371
+"107","St Helier Hospital",0.714,0.329,0.457
+"108","St James University Hospital",0.765,0.245,0.27
+"109","St Mary's Hospital",0.617,0.276,0.432
+"110","St Mary's Maternity Unit, Poole",0.654,0.249,0.38
+"111","St Michael's Hospital",0.272,0.103,0.367
+"112","St Peter's Hospital",0.676,0.218,0.318
+"113","St Richard's Hospital",0.59,0.185,0.298
+"114","St Thomas' Hospital",0.623,0.241,0.389
+"115","Stepping Hill Hospital",0.64,0.224,0.35
+"116","Stoke Mandeville Hospital",0.549,0.207,0.37
+"117","Sunderland Royal Hospital",0.606,0.247,0.399
+"118","Tameside Hospital",0.638,0.253,0.377
+"119","The Park Maternity Centre, Hinchingbrooke Hospital",0.488,0.36,0.738
+"120","The Rotherham Maternity Unit",0.614,0.329,0.571
+"121","The Royal Free Hospital",0.447,0.204,0.416
+"122","The Royal London Hospital",0.31,0.183,0.566
+"123","The Royal Oldham Hospital",0.596,0.264,0.438
+"124","The University Hospital of North Durham",0.758,0.31,0.381
+"125","Torbay Hospital",0.721,0.259,0.359
+"126","Tunbridge Wells Hospital",0.641,0.214,0.333
+"127","University Hospital Coventry",0.578,0.256,0.429
+"128","University Hospital Lewisham",0.691,0.256,0.324
+"129","University Hospital of North Tees",0.696,0.237,0.336
+"130","Walsall Manor Maternity Unit",0.677,0.219,0.319
+"131","Warrington Maternity Unit",0.691,0.265,0.383
+"132","Watford General Hospital",0.631,0.3,0.475
+"133","West Cumberland Hospital",0.59,0.19,0.322
+"134","West Middlesex Hospital",0.476,0.267,0.561
+"135","West Suffolk Hospital",0.663,0.399,0.601
+"136","Wexham Park Hospital",0.618,0.263,0.426
+"137","Whipps Cross Hospital",0.349,0.24,0.595
+"138","Whiston Maternity Unit",0.612,0.163,0.245
+"139","Whittington Hospital",0.306,0.108,0.341
+"140","William Harvey Hospital",0.587,0.227,0.387
+"141","Wirral Women and Childrens Hospital",0.667,0.239,0.373
+"142","Women and Children's Centre, Princess Royal Hospital",0.701,0.258,0.367
+"143","Women and Children's Hospital",0.634,0.237,0.358
+"144","Worcestershire Royal Hospital",0.5,0.216,0.432
+"145","Worthing Hospital",0.704,0.27,0.376
+"146","Wythenshawe Maternity Unit",0.66,0.253,0.384
+"147","Yeovil Maternity Unit",0.229,0.128,0.527
+"148","York Hospital",0.596,0.282,0.436
+"149","Aberdeen Maternity Hospital",0.504,0.145,0.288
+"150","Ayrshire Maternity Unit",0.42,0.102,0.242
+"151","Borders General Hospital Maternity Unit",0.5,0.141,0.281
+"152","Dr Gray's Hospital",0.565,0.203,0.359
+"153","Forth Valley Royal Hospital",0.46,0.172,0.373
+"154","Ninewells Hospital",0.486,0.176,0.361
+"155","Princess Royal Maternity",0.419,0.072,0.171
+"156","Queen Elizabeth University Hospital Maternity Unit",0.505,0.11,0.217
+"157","Raigmore Hospital",0.611,0.189,0.309
+"158","Royal Alexandra Hospital",0.481,0.088,0.182
+"159","Simpson Centre for Reproductive Health, Edinburgh Royal Infirmary",0.514,0.252,0.49
+"160","St John’s Hospital, Livingston",0.351,0.091,0.258
+"161","University Hospital Wishaw",0.409,0.119,0.29
+"162","Victoria Hospital",0.523,0.246,0.47
+"163","Women and Children's Dumfries and Galloway Royal Infirmary",0.679,0.257,0.378
+"164","Glangwili Hospital",0.376,0.135,0.36
+"165","Gwenllian Maternity Unit, Bronglais Hospital",0.37,0.156,0.422
+"166","Nevill Hall Hospital",0.741,0.214,0.277
+"167","Prince Charles Hospital",0.5,0.224,0.449
+"168","Princess of Wales Hospital",0.65,0.272,0.4
+"169","Royal Glamorgan Hospital",0.425,0.152,0.358
+"170","Royal Gwent Hospital",0.705,0.367,0.5
+"171","Singleton Hospital",0.689,0.264,0.385
+"172","University Hospital of Wales",0.701,0.322,0.454
+"173","Wrexham Maelor",0.653,0.273,0.412
+"174","Ysbyty Glan Clwyd",0.591,0.322,0.547
+"175","Ysbyty Gwynedd",0.569,0.351,0.614
